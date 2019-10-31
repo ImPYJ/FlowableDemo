@@ -1,0 +1,11 @@
+
+
+spring:
+  datasource:
+    url: jdbc:mysql://192.168.1.8:3306/pyj?useUnicode=true&characterEncoding=utf8
+    username: xn_sys
+    password: xtgl1234
+    driverClassName: com.mysql.jdbc.Driver
+flowable:
+  #关闭定时任务JOB
+  async-executor-activate: false
