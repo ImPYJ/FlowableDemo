@@ -29,6 +29,7 @@
             <artifactId>flowable-spring-boot-starter</artifactId>
             <version>6.3.0</version>
         </dependency>
+
         <!--mysql依赖-->
         <dependency>
             <groupId>mysql</groupId>
